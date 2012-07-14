@@ -1,0 +1,19 @@
+commentBorder=\#808080 | \#141414 | false | false | false | false
+commentText=\#808080 | \#141414 | false | false | false | false
+declBoder=\#808080 | \#141414 | false | false | false | false
+doctypeExternalId=\#808080 | \#141414 | false | false | false | false
+doctypeExternalPubref=\#5ab4b4 | \#141414 | true | false | false | false
+doctypeExtrenalSysref=\#5ab4b4 | \#141414 | true | true | false | false
+doctypeName=\#f0eb8e | null | false | false | false | false
+eclipse.preferences.version=1
+entityReference=\#5ab4b4 | \#141414 | false | false | false | false
+html_content_assist_default_page_sort_order=org.eclipse.wst.html.ui.proposalCategory.htmlTags\u0000org.eclipse.wst.css.ui.proposalCategory.css\u0000org.eclipse.wst.html.ui.proposalCategory.htmlTemplates\u0000org.eclipse.wst.css.ui.proposalCategory.cssTemplates\u0000
+html_content_assist_own_page_sort_order=org.eclipse.wst.html.ui.proposalCategory.htmlTemplates\u0000org.eclipse.wst.css.ui.proposalCategory.cssTemplates\u0000org.eclipse.wst.html.ui.proposalCategory.htmlTags\u0000org.eclipse.wst.css.ui.proposalCategory.css\u0000
+newFileTemplateName=New HTML File (5)
+org.eclipse.wst.sse.ui.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates><template autoinsert\="true" context\="html_tag" deleted\="false" description\="Smarty Tag" enabled\="true" name\="Smarty">&lt;{ ${cursor} }&gt;</template></templates>
+tagAttributeEquals=\#c0c0c0 | \#141414 | false | false | false | false
+tagAttributeName=\#3486eb | \#141414 | false | false | false | false
+tagAttributeValue=\#449d50 | \#141414 | false | false | false | false
+tagBorder=\#808080 | \#141414 | false | false | false | false
+tagName=\#7f9fbf | \#141414 | false | false | false | false
+xmlContent=\#c0c0c0 | \#141414 | false | false | false | false
