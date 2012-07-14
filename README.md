@@ -4,15 +4,15 @@
 
 裡面有基本通用風格設定，還有以下幾個語言擴充的風格設定
 
--Java
--JavaScript
--PHP
--Web
---CSS
---HTML
--XML
---DTD
---XML
+- Java
+- JavaScript
+- PHP
+- Web
+-- CSS
+-- HTML
+- XML
+-- DTD
+-- XML
 
 ##[Eclipse-Juno-On-Google-Drive](http://goo.gl/Bz9hZ)
 
