@@ -1,0 +1,10 @@
+dtdComment=\#808080 | null | false | false | false | false
+dtdData=\#3486eb | null | false | false | false | false
+dtdDefault=\#c0c0c0 | null | false | false | false | false
+dtdKeyword=\#ebb172 | null | false | false | false | false
+dtdString=\#c9771d | null | false | true | false | false
+dtdSymbol=\#c0c0c0 | null | false | false | false | false
+dtdTag=\#808080 | null | false | false | false | false
+dtdTagName=\#7f9fbf | null | false | false | false | false
+eclipse.preferences.version=1
+org.eclipse.wst.sse.ui.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>

@@ -1,0 +1,26 @@
+ATMARK_RULE=\#c0c0c0 | null | false | false | false | false
+ATTRIBUTE_DELIM=\#808080 | null | false | false | false | false
+ATTRIBUTE_NAME=\#3486eb | null | false | false | false | false
+ATTRIBUTE_OPERATOR=\#c0c0c0 | null | false | false | false | false
+ATTRIBUTE_VALUE=\#808080 | null | false | false | false | false
+CLASS=\#ebb172 | null | false | true | false | false
+COLON=\#808080 | null | false | false | false | false
+COMBINATOR=\#808080 | null | false | false | false | false
+COMMENT=\#808080 | null | false | false | false | false
+CURLY_BRACE=\#808080 | null | false | false | false | false
+ERROR=\#ff0000 | null | false | false | false | false
+ID=\#c9771d | null | false | true | false | false
+MEDIA=\#ff0000 | null | false | false | false | false
+NORMAL=\#f0f0f0 | null | false | false | false | false
+PROPERTY_NAME=\#3486eb | null | false | false | false | false
+PROPERTY_VALUE=\#c0c0c0 | null | false | true | false | false
+PSEUDO=\#3486eb | null | false | true | false | false
+SELECTOR=\#f0eb8e | null | true | false | false | false
+SEMI_COLON=\#f0f0f0 | null | false | false | false | false
+STRING=\#f0f0f0 | null | false | true | false | false
+UNIVERSAL=\#ffffff | null | true | false | false | false
+URI=\#5ab4b4 | null | false | true | false | false
+css_content_assist_default_page_sort_order=org.eclipse.wst.css.ui.proposalCategory.css\u0000org.eclipse.wst.css.ui.proposalCategory.cssTemplates\u0000
+css_content_assist_own_page_sort_order=org.eclipse.wst.css.ui.proposalCategory.cssTemplates\u0000org.eclipse.wst.css.ui.proposalCategory.css\u0000
+eclipse.preferences.version=1
+org.eclipse.wst.sse.ui.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
